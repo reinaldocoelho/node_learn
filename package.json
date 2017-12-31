@@ -1,0 +1,14 @@
+{
+  "name": "node.learn",
+  "version": "1.0.0",
+  "description": "Node learn script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reinaldo Coelho Sartorelli",
+  "license": "MIT",
+	 "dependencies": {
+    "express": "expressjs/express"
+		}
+}
